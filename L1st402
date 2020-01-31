@@ -1,0 +1,259 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png" group-title="Canais",A&E HD
+
+http://us11.koscar.live/SD_AE/video.m3u8?token=d1dd031bf64966228817a3ef214f601b
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png" group-title="Canais",A&E
+
+http://us11.kromeo.live/HD_AE/video.m3u8?token=d1dd031bf64966228817a3ef214f601b
+
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png" group-title="Canais",ANIMAL PLANET
+
+http://fr.kjuliett.site/SD_ANIMAL_PLANET/video.m3u8?token=d1dd031bf64966228817a3ef214f601b
+
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png" group-title="Canais",ANIMAL PLANET HD
+
+http://pl.server.kdelta.xyz/HD_ANIMAL_PLANET/video.m3u8?token=d1dd031bf64966228817a3ef214f601b
+
+#EXTINF:-1 tvg-logo="http://z4.vc/SV1" group-title="Canais",Band
+
+http://pl.server.kkfoxtrot.xyz/SD_BAND/video.m3u8?token=d1dd031bf64966228817a3ef214f601b
+
+#EXTINF:-1 tvg-logo="http://z4.vc/SV1" group-title="Canais",Band HD
+
+http://ge.server.kvictor.live/HD_BAND/video.m3u8?token=d1dd031bf64966228817a3ef214f601b
+
+#EXTINF:-1 tvg-logo="" group-title="Canais",Big Brother Brasil [CAM001] HD
+
+http://pl.server.kkfoxtrot.xyz/HD_BBB_CONFESSIONARIO/video.m3u8?token=d1dd031bf64966228817a3ef214f601b
+
+#EXTINF:-1 tvg-logo="" group-title="Canais",Big Brother Brasil [CAM002] HD
+
+http://us14.server.kp2kilo.xyz/HD_BBB_COZINHA_CAMAROTE/video.m3u8?token=d1dd031bf64966228817a3ef214f601b
+
+#EXTINF:-1 tvg-logo="" group-title="Canais",Big Brother Brasil [CAM003] HD
+
+http://pl.server.kdelta.xyz/HD_BBB_COZINHA_VIP/video.m3u8?token=d1dd031bf64966228817a3ef214f601b
+
+#EXTINF:-1 tvg-logo="" group-title="Canais",Big Brother Brasil [CAM004] HD
+
+http://pl.server.kkecho.xyz/HD_BBB_JARDIM_CAMAROTE/video.m3u8?token=d1dd031bf64966228817a3ef214f601b
+
+#EXTINF:-1 tvg-logo="" group-title="Canais",Big Brother Brasil [CAM005] HD
+
+http://us12.server.kkuniform.xyz/HD_BBB_PISCINA/video.m3u8?token=d1dd031bf64966228817a3ef214f601b
+
+#EXTINF:-1 tvg-logo="" group-title="Canais",Big Brother Brasil [CAM006] HD
+
+http://us14.server.kpfoxtrot.xyz/HD_BBB/video.m3u8?token=d1dd031bf64966228817a3ef214f601b
+
+#EXTINF:-1 tvg-logo="" group-title="Canais",Big Brother Brasil [CAM007] HD
+
+http://us12.server.kecho.store/HD_BBB_QUARTO_CAMAROTE/video.m3u8?token=d1dd031bf64966228817a3ef214f601b
+
+#EXTINF:-1 tvg-logo="" group-title="Canais",Big Brother Brasil [CAM008] HD
+
+http://pl.server.kkecho.xyz/HD_BBB_QUARTO_CEU/video.m3u8?token=d1dd031bf64966228817a3ef214f601b
+
+#EXTINF:-1 tvg-logo="" group-title="Canais",Big Brother Brasil [CAM009] HD
+
+http://us12.server.kkbravo.xyz/HD_BBB_QUARTO_VILA/video.m3u8?token=d1dd031bf64966228817a3ef214f601b
+
+#EXTINF:-1 group-title="Canais",Boomerang
+
+http://us11.kgolf.store/SD_BOOMERANG/video.m3u8?token=d1dd031bf64966228817a3ef214f601b
+
+#EXTINF:-1 group-title="Canais",Boomerang HD
+
+http://us12.server.kkalfa.xyz/HD_BOOMERANG/video.m3u8?token=d1dd031bf64966228817a3ef214f601b
+
+#EXTINF:-1 tvg-logo="http://z4.vc/Brc" group-title="Canais",Cartoon Network
+
+http://pl.server.kkfoxtrot.xyz/SD_CARTOON_NETWORK/video.m3u8?token=d1dd031bf64966228817a3ef214f601b
+
+#EXTINF:-1 tvg-logo="http://z4.vc/Brc" group-title="Canais",Cartoon Network HD
+
+http://pl.server.kkecho.xyz/HD_CARTOON_NETWORK/video.m3u8?token=d1dd031bf64966228817a3ef214f601b
+
+#EXTINF:-1 tvg-logo="http://z4.vc/Lo1" group-title="Canais",Cinemax HD
+
+http://us13.server.kbravo.live/HD_CINEMAX/video.m3u8?token=d1dd031bf64966228817a3ef214f601b
+
+#EXTINF:-1 tvg-logo="http://z4.vc/W6B" group-title="Canais",Discovery Channel
+
+http://pl.server.kcharlie.xyz/SD_DISCOVERY/video.m3u8?token=d1dd031bf64966228817a3ef214f601b
+
+#EXTINF:-1 tvg-logo="http://z4.vc/W6B" group-title="Canais",Discovery Channel HD
+
+http://us12.server.kktango.xyz/HD_DISCOVERY/video.m3u8?token=d1dd031bf64966228817a3ef214f601b
+
+#EXTINF:-1 tvg-logo="http://z4.vc/AsO" group-title="Canais",Discovery Turbo
+
+http://us11.kgolf.store/SD_DISCOVERY_TURBO/video.m3u8?token=d1dd031bf64966228817a3ef214f601b
+
+#EXTINF:-1 tvg-logo="http://z4.vc/AsO" group-title="Canais",Discovery Turbo HD
+
+http://pl.server.kkfoxtrot.xyz/HD_DISCOVERY_TURBO/video.m3u8?token=d1dd031bf64966228817a3ef214f601b
+
+#EXTINF:-1 tvg-logo="http://z4.vc/COA" group-title="Canais",Disney Channel
+
+http://us11.kfoxtrot.store/SD_DISNEY/video.m3u8?token=d1dd031bf64966228817a3ef214f601b
+
+#EXTINF:-1 tvg-logo="http://z4.vc/COA" group-title="Canais",Disney Channel HD
+
+http://pl.server.kecho.xyz/HD_DISNEY/video.m3u8?token=d1dd031bf64966228817a3ef214f601b
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n2T" group-title="Canais,Disney XD
+
+http://us12.server.kktango.xyz/SD_DISNEY_XD/video.m3u8?token=d1dd031bf64966228817a3ef214f601b
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n2T" group-title="Canais",Disney XD HD
+
+http://us12.server.kecho.store/HD_DISNEY_XD/video.m3u8?token=d1dd031bf64966228817a3ef214f601b
+
+#EXTINF:-1 tvg-logo="http://z4.vc/Gcu" group-title="Canais",Fox
+
+http://us11.kgolf.store/SD_FOX/video.m3u8?token=d1dd031bf64966228817a3ef214f601b
+
+#EXTINF:-1 tvg-logo="http://z4.vc/Gcu" group-title="Canais",Fox HD
+
+http://pl.server.kbravo.xyz/HD_FOX/video.m3u8?token=d1dd031bf64966228817a3ef214f601b
+
+#EXTINF:-1 tvg-logo="http://z4.vc/Vlx" group-title="Canais",Globo HD
+
+http://pl.server.kecho.xyz/HD_GLOBO_SP/video.m3u8?token=d1dd031bf64966228817a3ef214f601b
+
+#EXTINF:-1 group-title="Canais",HBO HD
+
+http://pl.server.kkfoxtrot.xyz/HD_HBO_1/video.m3u8?token=d1dd031bf64966228817a3ef214f601b
+
+________________________________________________________________________________________________________________
+
+#EXTINF: -1 type:"stream" tvg-id="" group-title ="Outros Canais",Telecine Pipoca
+
+http://198.255.23.18:2095/streams/207_.m3u8
+
+#EXTINF: -1 type:"stream" tvg-id="" group-title ="Outros Canais",Telecine Action
+
+http://198.255.23.18:2095/streams/214_.m3u8
+
+#EXTINF: -1 type:"stream" tvg-id="" group-title ="Outros Canais",Telecine Premium
+
+http://198.255.23.18:2095/streams/209_.m3u8
+
+#EXTINF: -1 type:"stream" tvg-id="" group-title ="Outros Canais",Telecine Fun
+
+http://198.255.23.18:2095/streams/205_.m3u8
+
+#EXTINF: -1 type:"stream" tvg-id="" group-title ="Outros Canais",Fox
+
+http://198.255.23.18:2095/streams/161_.m3u8
+
+#EXTINF: -1 type:"stream" tvg-id="" group-title ="Outros Canais",Fox Premium¹
+
+http://198.255.23.18:2095/streams/165_.m3u8
+
+#EXTINF: -1 type:"stream" tvg-id="" group-title ="Outros Canais",Fox Premium²
+
+http://198.255.23.18:2095/streams/167_.m3u8
+
+#EXTINF: -1 type:"stream" tvg-id="" group-title ="Outros Canais",Fox Sports
+
+http://198.255.23.18:2095/streams/56_.m3u8
+
+#EXTINF: -1 type:"stream" tvg-id="" group-title ="Outros Canais",A&E
+
+http://198.255.23.18:2095/streams/157_.m3u8
+
+#EXTINF: -1 type:"stream" tvg-id="" group-title ="Outros Canais",Animal Planet
+
+http://198.255.23.18:2095/streams/98_.m3u8
+
+#EXTINF: -1 type:"stream" tvg-id="" group-title ="Outros Canais",Animal Planet (Alternativo)
+
+http://198.255.23.18:2095/streams/99_.m3u8
+
+#EXTINF: -1 type:"stream" tvg-id="" group-title ="Outros Canais",HBO
+
+http://198.255.23.18:2095/streams/186_.m3u8
+
+#EXTINF: -1 type:"stream" tvg-id="" group-title ="Outros Canais",HBO 2
+
+http://198.255.23.18:2095/streams/188_.m3u8
+
+#EXTINF: -1 type:"stream" tvg-id="" group-title ="Outros Canais",HBO Family
+
+http://198.255.23.18:2095/streams/193_.m3u8
+
+#EXTINF: -1 type:"stream" tvg-id="" group-title ="Outros Canais",HBO Plus
+
+http://198.255.23.18:2095/streams/189_.m3u8
+
+#EXTINF: -1 type:"stream" tvg-id="" group-title ="Outros Canais",TNT
+
+http://198.255.23.18:2095/streams/202_.m3u8
+
+#EXTINF: -1 type:"stream" tvg-id="" group-title ="Outros Canais",TNT Series
+
+http://198.255.23.18:2095/streams/176_.m3u8
+
+#EXTINF: -1 type:"stream" tvg-id="" group-title ="Outros Canais",Cinemax
+
+http://198.255.23.18:2095/streams/183_.m3u8
+
+#EXTINF: -1 type:"stream" tvg-id="" group-title ="Outros Canais",SporTV
+
+http://198.255.23.18:2095/streams/70_.m3u8
+
+#EXTINF: -1 type:"stream" tvg-id="" group-title ="Outros Canais",SporTV 2
+
+http://198.255.23.18:2095/streams/73_.m3u8
+
+#EXTINF: -1 type:"stream" tvg-id="" group-title ="Outros Canais",SporTV 3
+
+http://198.255.23.18:2095/streams/74_.m3u8
+
+#EXTINF: -1 type:"stream" tvg-id="" group-title ="Outros Canais",SBT
+
+http://198.255.23.18:2095/streams/37_.m3u8
+
+#EXTINF: -1 type:"stream" tvg-id="" group-title ="Outros Canais",Nickelodeon
+
+http://198.255.23.18:2095/streams/135_.m3u8
+
+#EXTINF: -1 type:"stream" tvg-id="" group-title ="Outros Canais",Nick Jr.
+
+http://198.255.23.18:2095/streams/139_.m3u8
+
+#EXTINF: -1 type:"stream" tvg-id="" group-title ="Outros Canais",Disney Channel
+
+http://198.255.23.18:2095/streams/129_.m3u8
+
+#EXTINF: -1 type:"stream" tvg-id="" group-title ="Outros Canais",Disney Junior
+
+http://198.255.23.18:2095/streams/130_.m3u8
+
+#EXTINF: -1 type:"stream" tvg-id="" group-title ="Outros Canais",Disney XD
+
+http://198.255.23.18:2095/streams/131_.m3u8
+
+#EXTINF: -1 type:"stream" tvg-id="" group-title ="Outros Canais",Cartoon Network
+
+http://198.255.23.18:2095/streams/128_.m3u8
+
+#EXTINF: -1 type:"stream" tvg-id="" group-title ="Outros Canais",Discovery Channel
+
+http://198.255.23.18:2095/streams/102_.m3u8
+
+#EXTINF: -1 type:"stream" tvg-id="" group-title ="Outros Canais",Discovery Kids
+
+http://198.255.23.18:2095/streams/138_.m3u8
+
+#EXTINF: -1 type:"stream" tvg-id="" group-title ="Outros Canais",Discovery Turbo
+
+http://198.255.23.18:2095/streams/106_.m3u8
+
+#EXTINF: -1 type:"stream" tvg-id="" group-title ="Outros Canais",Combate
+
+http://198.255.23.18:2095/streams/49_.m3u8
